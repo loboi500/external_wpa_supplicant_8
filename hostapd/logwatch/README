@@ -1,9 +1,3 @@
-Logwatch is a utility for analyzing system logs and provide a human
-readable summary. This directory has a configuration file and a log
-analyzer script for parsing hostapd system log entries for logwatch.
-These files can be installed by copying them to following locations:
-
-/etc/log.d/conf/services/hostapd.conf
-/etc/log.d/scripts/services/hostapd
-
-More information about logwatch is available from http://www.logwatch.org/
+version https://git-lfs.github.com/spec/v1
+oid sha256:507aef1aed880c97e236b003df11c072afe0b4e0c8bc38553d7c19f3f6ae126a
+size 425
